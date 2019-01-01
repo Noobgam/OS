@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 2.8)
 
-project(MAIOOP2)
+project(OS3)
 
 add_executable(main
               main.cpp)
