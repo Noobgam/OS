@@ -1,0 +1,11 @@
+#include <vector>
+
+using std::vector;
+
+long long calculatesum(const vector<double>& vec) {
+    long long sum = 0;
+    for (auto x : vec) {
+        sum += x;
+    }
+    return sum;
+}
